@@ -1,2 +1,2 @@
 # Python_django_project-mysite
-This is simple project of python django , also my first project
+This is simple django python project , also my first project
